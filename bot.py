@@ -7,11 +7,12 @@ GAS_URL = "https://script.google.com/macros/s/AKfycbzdXlhU7AUIuMrOGTnaGllnvwQUut
 
 # 2. 감시할 채널들의 유튜브 핸들(@)
 CHANNELS = [
-    "@orlandokim",    
+    "@orlandocampus",    
     "@sosumonkey",    
-    "@WisdomTooth",   
-    "@supetv"         
-]
+    "@위즈덤투스",   
+    "@supetv"
+    "@moneymoneycomics"
+    ]
 
 for handle in CHANNELS:
     try:
